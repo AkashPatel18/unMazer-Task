@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/unMazer-Task/static/css/main.6476ddb4.chunk.css",
+    "main.js": "/unMazer-Task/static/js/main.3488a0fa.chunk.js",
+    "main.js.map": "/unMazer-Task/static/js/main.3488a0fa.chunk.js.map",
+    "runtime-main.js": "/unMazer-Task/static/js/runtime-main.735b3534.js",
+    "runtime-main.js.map": "/unMazer-Task/static/js/runtime-main.735b3534.js.map",
+    "static/js/2.777024a2.chunk.js": "/unMazer-Task/static/js/2.777024a2.chunk.js",
+    "static/js/2.777024a2.chunk.js.map": "/unMazer-Task/static/js/2.777024a2.chunk.js.map",
+    "index.html": "/unMazer-Task/index.html",
+    "static/css/main.6476ddb4.chunk.css.map": "/unMazer-Task/static/css/main.6476ddb4.chunk.css.map",
+    "static/js/2.777024a2.chunk.js.LICENSE.txt": "/unMazer-Task/static/js/2.777024a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.735b3534.js",
+    "static/js/2.777024a2.chunk.js",
+    "static/css/main.6476ddb4.chunk.css",
+    "static/js/main.3488a0fa.chunk.js"
+  ]
+}
